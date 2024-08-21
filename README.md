@@ -44,7 +44,9 @@ The **Bank Risk Controller System** is designed to assess, monitor, and manage r
     ```bash
     streamlit run app.py 
 
-
+## CHATBOT
+   Using the chatbot.py and *env , we can easily build the chatbot.
+   
 ## Contributing
   We welcome contributions! Please see the CONTRIBUTING.md file for more information on how to get started.
 
