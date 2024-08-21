@@ -19,13 +19,13 @@ The **Bank Risk Controller System** is designed to assess, monitor, and manage r
 
 - Python 3.7 or above
 - Required Python packages (see `requirements.txt`)
-- A supported database system (e.g., MySQL, PostgreSQL, or SQLite)
+- Dataset - https://drive.google.com/drive/folders/10O0mhM9FCBKeFpIGuJprgDtzJxpEArdx?usp=sharing
 
 ### Steps
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/bank-risk-controller.git
+   git clone https://github.com/Sudesh-Github/Bank-Risk-Controller-Systems.git
    cd bank-risk-controller
    
 2. **Set Up a Virtual Environment:**
